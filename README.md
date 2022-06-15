@@ -1,9 +1,7 @@
 # hello-world
+My first ever repository
 
-Hello Earthlings,
-
-Python and Bioinformatics are the future!
-
-Seth
+print("hello-world")
 
 Traditional learning exercise.
+Seth
